@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kaercher",
+    "mongoUri": "",
+    "baseUrl": "http://localhost:5000"
+}
